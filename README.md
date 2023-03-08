@@ -2,10 +2,10 @@
 
 ### Sobre mim :
 
-- 🏢 Estagiário na SEDUC do Estado de Rôndonia;
+- 🏢 Estagiário na Secretaria de Educação do Estado de Rôndonia;
 - 🎓 Estudante de Sistemas de Informação na [Faculdade Sapiens;](https://faculdadesapiens.edu.br/)
 - 💻 Desenvolvedor Web;
-- 👨🏽‍💻 Atualmente focado em aprender C# e Javascript
+- 👨🏽‍💻 Atualmente focado no aprendizado em .NET;
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
