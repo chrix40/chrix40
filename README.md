@@ -2,7 +2,7 @@
 
 ### Sobre mim :
 
-- 🏢 Estagiário na Secretaria de Educação do Estado de Rôndonia;
+- 🏢 Desenvolvedor .NET na Secretaria de Educação do Estado de Rôndonia;
 - 🎓 Estudante de Sistemas de Informação na [Faculdade Sapiens;](https://faculdadesapiens.edu.br/)
 - 💻 Desenvolvedor Web;
 - 👨🏽‍💻 Atualmente focado no aprendizado em .NET;
