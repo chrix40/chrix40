@@ -3,9 +3,8 @@
 ### Sobre mim :
 
 - 🏢 Desenvolvedor .NET na Secretaria de Educação do Estado de Rôndonia;
-- 🎓 Estudante de Sistemas de Informação na [Faculdade Sapiens;](https://faculdadesapiens.edu.br/)
-- 💻 Desenvolvedor Web;
-- 👨🏽‍💻 Atualmente focado no aprendizado em .NET;
+- 🎓 Sistemas de Informação 6/8 Período ✅;
+- 👨🏽‍💻 Atualmente focado no aprendizado em Desenvolvimento Web;
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
