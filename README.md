@@ -2,7 +2,7 @@
 
 ### Sobre mim :
 
-- 🏢 Systems Analyst at Banco da Amazônia;
+- 🏢 Systems Analyst at Bank of Amazon;
 - 🎓 Bachelor of Information Systems;
 - 👨🏽‍💻 Currently focused on learning Java Web Development;
 
